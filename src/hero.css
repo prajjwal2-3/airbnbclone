@@ -1,0 +1,9 @@
+.imhero{
+    width: 50vw;
+    height: 30vh;
+}
+.imgbox{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}

@@ -1,0 +1,15 @@
+.navbar1{
+    /* background-color: aquamarine; */
+    box-shadow: 0 0 10px rgba(0,0,25,0.3);
+    height: 60px;
+    width: 100vw;
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    flex-direction: row;
+    padding: 10px;
+}
+.logo1{
+    height: 40px;
+
+}
