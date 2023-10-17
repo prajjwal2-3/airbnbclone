@@ -2,9 +2,12 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 
-import App from './App';
+// import App from './App';
 import Top from './navbar.js';
 import Hero from './hero.js'
+
+
+import Crd from './cardr.js'
 
 import reportWebVitals from './reportWebVitals';
 
@@ -13,6 +16,8 @@ root.render(
   <React.StrictMode>
     <Top/>
     <Hero/>
+    <Crd />
+    
   </React.StrictMode>
 );
 

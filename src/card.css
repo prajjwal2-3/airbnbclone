@@ -1,0 +1,17 @@
+.image{
+    width: 25vw;
+    height: 25vh;
+}
+.card{
+    width: 25vw;
+    box-shadow: 0 0 10px rgba(0,0,25,0.3);
+    border-radius: 20px;
+    margin: 1vw;
+    
+}
+.forrow{
+    display: flex;
+    flex-direction: row;
+    
+
+}
