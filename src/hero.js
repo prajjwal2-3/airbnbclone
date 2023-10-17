@@ -4,7 +4,7 @@ import './hero.css';
     return(
       <>
         <div className='imgbox'>
-            <img className='imhero' src={hero}></img>
+            <img className='imhero' src={hero} alt='m'></img>
 
         </div>
         <h1>Online Experiences</h1>
