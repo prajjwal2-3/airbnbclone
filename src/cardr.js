@@ -17,19 +17,19 @@ function Crd(){
     />
     <Card
       image = {image2}
-      para = "Life Lessons with katie Zaferes"
-      star = "5.0"
-      no = "6"
+      para = "Group Mountain Biking"
+      star = "4.8"
+      no = "2"
       country = "USA"
-      price = "$136"
+      price = "$50"
     />
     <Card
       image = {image3}
-      para = "Life Lessons with katie Zaferes"
+      para = "Learn wedding photography"
       star = "5.0"
-      no = "6"
+      no = "30"
       country = "USA"
-      price = "$136"
+      price = "$125"
     />
         </div>
     )
