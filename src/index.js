@@ -7,7 +7,7 @@ import Top from './navbar.js';
 import Hero from './hero.js'
 
 
-import Crd from './cardr.js'
+import Crd from './card.js'
 
 import reportWebVitals from './reportWebVitals';
 
